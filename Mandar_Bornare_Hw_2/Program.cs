@@ -6,7 +6,7 @@ namespace Mandar_Bornare_Hw_2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
